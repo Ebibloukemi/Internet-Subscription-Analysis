@@ -1,0 +1,8 @@
+A new telecom company is starting up in the country, but really need to know the state of internet subscription in the country. 
+The Company needs to know if the market is good for them to go into and who are their major competitors. The company went to carry out a survey and has brought the data to you for analysis and insights on the industry.
+The company needs to know the following.
+1. market players and performance 
+2. percentage of Smartphone users
+3. How Often people make Subscription
+4. How much people spend on internet on the average.
+5.Suggest other possible question that could aid your analysis, at least 3.
